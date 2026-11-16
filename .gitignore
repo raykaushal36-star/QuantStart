@@ -1,0 +1,23 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.DS_Store
+.ipynb_checkpoints/
+.pytest_cache/
+node_modules/
+dist/
+build/
+data/raw/
+
+# Anaconda local metadata
+anaconda_projects/
+
+# Generated results
+results/
+
+# Local database files
+*.db
+*.sqlite
+*.sqlite3
